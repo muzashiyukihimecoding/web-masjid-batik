@@ -140,7 +140,7 @@ const Hero = () => {
     <section className="relative h-screen md:h-[90vh] flex items-center justify-center overflow-hidden pt-16">
       <div className="absolute inset-0 z-0">
         <img
-          src="src\assets\masjidbatik-main-beranda.jpg"
+          src="https://i.pinimg.com/736x/13/fc/6b/13fc6b7e4246eeed33244b2629e49dd5.jpg"
           alt="Desain Masjid Batik Banyumas"
           className="w-full h-full object-cover scale-105 filter brightness-75"
         />
